@@ -1,0 +1,47 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/land/1.png</file>
+        <file>images/land/2.png</file>
+        <file>images/land/3.png</file>
+        <file>images/land/4.png</file>
+        <file>images/land/5.png</file>
+        <file>images/land/6.png</file>
+        <file>images/land/7.png</file>
+        <file>images/land/8.png</file>
+        <file>images/land/9.png</file>
+        <file>images/land/10.png</file>
+        <file>images/land/11.png</file>
+        <file>images/land/12.png</file>
+        <file>images/land/13.png</file>
+        <file>images/sea/S1.png</file>
+        <file>images/sea/S2.png</file>
+        <file>images/sea/S3.png</file>
+        <file>images/sea/S4.png</file>
+        <file>images/sea/S5.png</file>
+        <file>images/sea/S6.png</file>
+        <file>images/sea/S7.png</file>
+        <file>images/sea/S8.png</file>
+        <file>images/sea/S9.png</file>
+        <file>images/sea/S10.png</file>
+        <file>images/sea/S11.png</file>
+        <file>images/sea/S12.png</file>
+        <file>images/sea/S13.png</file>
+        <file>images/land/14.png</file>
+        <file>images/drawable/error.png</file>
+        <file>images/drawable/mune.png</file>
+        <file>images/drawable/rounded_dark_box.png</file>
+        <file>images/drawable/rounded_glow_button.png</file>
+        <file>images/drawable/rounded_glow_highlight_button.png</file>
+        <file>images/drawable/rounded_white_button.png</file>
+        <file>images/drawable/mune2.png</file>
+        <file>images/drawable/start_glow_button.png</file>
+        <file>images/drawable/start_glow_highlight_button.png</file>
+        <file>images/drawable/titlle.png</file>
+        <file>images/drawable/exit_dark_box.png</file>
+        <file>images/drawable/exit_white_button.png</file>
+        <file>images/drawable/return_glow_button.png</file>
+        <file>images/drawable/return_glow_highlight_button.png</file>
+        <file>images/drawable/metal.png</file>
+        <file>images/drawable/pause.png</file>
+    </qresource>
+</RCC>
